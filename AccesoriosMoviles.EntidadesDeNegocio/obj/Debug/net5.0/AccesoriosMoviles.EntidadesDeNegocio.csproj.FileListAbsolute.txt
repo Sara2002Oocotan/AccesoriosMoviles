@@ -1,0 +1,12 @@
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\bin\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.deps.json
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\bin\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\bin\Debug\net5.0\ref\AccesoriosMoviles.EntidadesDeNegocio.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\bin\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.pdb
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\obj\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\obj\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\obj\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\obj\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\obj\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\obj\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\obj\Debug\net5.0\ref\AccesoriosMoviles.EntidadesDeNegocio.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.EntidadesDeNegocio\obj\Debug\net5.0\AccesoriosMoviles.EntidadesDeNegocio.pdb
