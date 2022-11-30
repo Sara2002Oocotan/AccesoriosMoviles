@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZfgOSONt9E8TSgu8kQoVkse0zwXATOf24n35vCd2ykZptgCQd5Czs8cbPnuvE3VW6Ehw30jcHw5JaSIQ3f6vYw==",
+  "dgSpecHash": "P5kwZzbJrBnJQJ+75ze0sKTNux4Uj6Q2FBXymTSTOeimlQ96B+xkP87OOzC9xnsyzEaZiLSGILmnSucxdd6PTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\MINED\\source\\repos\\AccesoriosMoviles\\AccesoriosMoviles.AccesoADatos\\AccesoriosMoviles.AccesoADatos.csproj",
   "expectedPackageFiles": [
@@ -97,10 +97,7 @@
     "C:\\Users\\MINED\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\MINED\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\MINED\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\MINED\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\MINED\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\MINED\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\MINED\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\MINED\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

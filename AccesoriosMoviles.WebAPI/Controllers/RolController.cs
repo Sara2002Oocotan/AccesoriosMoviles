@@ -19,12 +19,14 @@ namespace AccesoriosMoviles.WebAPI.Controllers
         private RolBL rolBL = new RolBL();
 
         [HttpGet]
+        [AllowAnonymous]
         public async Task<IEnumerable<Rol>> Get()
         {
             return await rolBL.ObtenerTodosAsync();
         }
 
         [HttpGet("{id}")]
+        [AllowAnonymous]
         public async Task<Rol> Get(int id)
         {
             Rol rol = new Rol();

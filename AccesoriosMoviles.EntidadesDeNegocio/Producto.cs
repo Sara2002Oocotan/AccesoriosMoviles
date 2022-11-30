@@ -23,10 +23,10 @@ namespace AccesoriosMoviles.EntidadesDeNegocio
         public string Nombre { get; set; }
 
         [Required(ErrorMessage = "Precio es obligatorio")]
-        public string Precio { get; set; }
+        public decimal Precio { get; set; }
 
         [Required(ErrorMessage = "Imagen es obligatorio")]
-        [StringLength(25, ErrorMessage = "Maximo 200 caracteres")]
+        [StringLength(400, ErrorMessage = "Maximo 400 caracteres")]
         public string Imagen { get; set; }
 
         [Required(ErrorMessage = "Descripcion es obligatorio")]

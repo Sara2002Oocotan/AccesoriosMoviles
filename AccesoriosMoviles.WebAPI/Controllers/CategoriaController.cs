@@ -19,6 +19,7 @@ namespace AccesoriosMoviles.WebAPI.Controllers
         private CategoriaBL categoriaBL = new CategoriaBL();
 
         [HttpGet]
+        [AllowAnonymous]
         public async Task<IEnumerable<Categoria>> Get()
         {
             return await categoriaBL.ObtenerTodosAsync();

@@ -1,0 +1,17 @@
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\bin\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.deps.json
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\bin\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\bin\Release\net5.0\ref\AccesoriosMoviles.LogicaDeNegocio.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\bin\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.pdb
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\bin\Release\net5.0\AccesoriosMoviles.AccesoADatos.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\bin\Release\net5.0\AccesoriosMoviles.EntidadesDeNegocio.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\bin\Release\net5.0\AccesoriosMoviles.AccesoADatos.pdb
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\bin\Release\net5.0\AccesoriosMoviles.EntidadesDeNegocio.pdb
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\obj\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\obj\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\obj\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\obj\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\obj\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\obj\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\obj\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\obj\Release\net5.0\ref\AccesoriosMoviles.LogicaDeNegocio.dll
+C:\Users\MINED\source\repos\AccesoriosMoviles\AccesoriosMoviles.LogicaDeNegocio\obj\Release\net5.0\AccesoriosMoviles.LogicaDeNegocio.pdb

@@ -78,8 +78,8 @@ namespace AccesoriosMoviles.AccesoADatos
                 pQuery = pQuery.Where(s => s.IdCategoria == pProducto.IdCategoria);
             if (!string.IsNullOrWhiteSpace(pProducto.Nombre))
                 pQuery = pQuery.Where(s => s.Nombre.Contains(pProducto.Nombre));
-            if (!string.IsNullOrWhiteSpace(pProducto.Precio))
-                pQuery = pQuery.Where(s => s.Precio.Contains(pProducto.Precio));
+            if (pProducto.Precio>0)
+                pQuery = pQuery.Where(s => s.Precio == pProducto.Precio);
             if (!string.IsNullOrWhiteSpace(pProducto.Imagen))
                 pQuery = pQuery.Where(s => s.Imagen.Contains(pProducto.Imagen));
             if (!string.IsNullOrWhiteSpace(pProducto.Descripcion))

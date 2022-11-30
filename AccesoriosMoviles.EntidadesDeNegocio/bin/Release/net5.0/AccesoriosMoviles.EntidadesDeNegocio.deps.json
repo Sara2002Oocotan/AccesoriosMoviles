@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AccesoriosMoviles.EntidadesDeNegocio/1.0.0": {
+        "runtime": {
+          "AccesoriosMoviles.EntidadesDeNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccesoriosMoviles.EntidadesDeNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

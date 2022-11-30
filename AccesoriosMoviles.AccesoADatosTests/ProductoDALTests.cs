@@ -11,7 +11,7 @@ namespace AccesoriosMoviles.AccesoADatos.Tests
     [TestClass()]
     public class ProductoDALTests
     {
-        private static Producto productoInicial = new Producto { Id = 7, IdCategoria = 1, Nombre = "Protectores", Precio = "12", Imagen = "Protector", Descripcion = "Para telefono Alcatel" };
+        private static Producto productoInicial = new Producto { Id = 7, IdCategoria = 1, Nombre = "Protectores", Precio = 12, Imagen = "Protector", Descripcion = "Para telefono Alcatel" };
 
         [TestMethod()]
         public async Task T1CrearAsyncTest()
@@ -20,7 +20,7 @@ namespace AccesoriosMoviles.AccesoADatos.Tests
             var producto = new Producto();
             producto.IdCategoria = productoInicial.IdCategoria;
             producto.Nombre = "Protectores";
-            producto.Precio = "12";
+            producto.Precio = 12;
             producto.Imagen = "Protector";
             producto.Descripcion = "Para telefono Alcatel";
             int result = await ProductoDAL.CrearAsync(producto);
@@ -36,7 +36,7 @@ namespace AccesoriosMoviles.AccesoADatos.Tests
             producto.Id = productoInicial.Id;
             producto.IdCategoria = productoInicial.IdCategoria;
             producto.Nombre = "Protectores";
-            producto.Precio = "12";
+            producto.Precio = 12;
             producto.Imagen = "Protector";
             producto.Descripcion = "Para telefono Alcatel";
             int result = await ProductoDAL.ModificarAsync(producto);
@@ -66,7 +66,7 @@ namespace AccesoriosMoviles.AccesoADatos.Tests
             var producto = new Producto();
             producto.IdCategoria = productoInicial.IdCategoria;
             producto.Nombre = "p";
-            producto.Precio = "12";
+            producto.Precio = 12;
             producto.Imagen = "p";
             producto.Descripcion = "p";
             producto.Top_Aux = 10;
@@ -80,7 +80,7 @@ namespace AccesoriosMoviles.AccesoADatos.Tests
             var producto = new Producto();
             producto.IdCategoria = productoInicial.IdCategoria;
             producto.Nombre = "p";
-            producto.Precio = "12";
+            producto.Precio = 12;
             producto.Imagen = "p";
             producto.Descripcion = "p";
             producto.Top_Aux = 10;

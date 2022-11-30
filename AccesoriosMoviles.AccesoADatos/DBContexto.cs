@@ -17,7 +17,8 @@ namespace AccesoriosMoviles.AccesoADatos
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=ALVARO123;Initial AccesoriosMoviles;Integrated Security=True");
+            //optionsBuilder.UseSqlServer(@"Data Source=ALVARO123;Initial Catalog = AccesoriosMoviles;Integrated Security=True");
+            optionsBuilder.UseSqlServer(@"Data Source=AccesoriosMoviles.mssql.somee.com; Initial Catalog = AccesoriosMoviles; user id=sara_SQLLogin_1; pwd=te49asvr9m");
         }
     }
 }

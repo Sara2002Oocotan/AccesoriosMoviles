@@ -28,12 +28,14 @@ namespace AccesoriosMoviles.WebAPI.Controllers
 
 
         [HttpGet]
+        [AllowAnonymous]
         public  async Task<IEnumerable<Producto>> Get()
         {
             return await productoBL.ObtenerTodosAsync();
         }
 
         [HttpGet("{id}")]
+        [AllowAnonymous]
         public async Task<Producto> Get(int id)
         {
             Producto producto = new Producto();
@@ -89,6 +91,7 @@ namespace AccesoriosMoviles.WebAPI.Controllers
         }
 
         [HttpPost("Buscar")]
+        [AllowAnonymous]
         public async Task<List<Producto>> Buscar([FromBody] object pProducto)
         {
 
